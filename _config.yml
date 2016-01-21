@@ -1,24 +1,26 @@
-title:            Blog Title
-description:      Describe your website here.
-disqus_shortname: neohpstrtheme
+title:            Piperod- UPRM
+description:      In this blog I will be postings related to my master in Scientific Computation at UPRM(RUM) and other fields.
+disqus_shortname: Piperod 
 reading_time:     true
 words_per_minute: 200
 logo:             images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-# url: http://aronbordin.com/neo-hpstr-jekyll-theme
+url: http://piperod.github.io
 
 menu:
   - title: 'Home'
     url: '/'
   - title: 'About'
     url: '/about'
-  - title: 'Tags'
+  - title: 'tags'
     url: '/tags'
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Favorites'
+  - title: 'Station Q'
+    url: '/Station_Q/station_q.html'
+  - title: 'Fun Stuff'
     url: '#'
     submenu:
       - title: 'highlighter'
@@ -28,30 +30,29 @@ menu:
 
 # Owner/author information
 owner:
-  name:           Your name
-  site:           http://aronbordin.com
+  name:           Ivan Felipe Rodriguez
+  site:           http://piperod.github.io
   avatar:         images/avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  bio:            "Colombian.LDS member(mormon).Mathematician. Teacher. Student at RUM: Master in Scientific Computing. Guitar. Geek xd.  "
+  email:          ifelipe.rodriguez@hotmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter: aron_bordin
-  facebook:
-  github: aron-bordin
+  twitter: piperod
+  facebook: Ivan Felipe Rodriguez
+  github: piperod
   stackexchange:
   linkedin:
   instagram:
   flickr:
   tumblr:
   # google plus id, include the '+', eg +AronBordin
-  google_plus:    +yourid
+  google_plus:    +alcuadrado91
 
 social:
   - title: "github"
-    url: "https://github.com/aron-bordin"
-  - title: "linkedin"
-    url: "https://br.linkedin.com/in/aronbordin"
-  - title: "youtube"
-    url: "https://www.youtube.com/channel/UCfnSek-9HPWOx5e2pH7VFgg"
+    url: "https://github.com/piperod"
+
+  - title: "facebook"
+    url: "https://www.facebook.com/ifelipe.rodriguez"
 # Background image to be tiled on all pages
 background:
 

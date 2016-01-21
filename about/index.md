@@ -1,34 +1,28 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About the blog.
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
   creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 comments: false
-modified: 2014-12-24
+modified: 2016-01-01
 ---
+Hello everybody, 
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+I am  Ivan Felipe Rodriguez from Bogotá, Colombia. I got my bachelor's degree on math on 2015 at Universidad Sergio Arboleda. For this 2016 I will be at Puerto Rico University Studying a Master degree on Scientific Computing. 
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+I have to say, it has been not too much time ago since I began programming, it came to pass that some friend introduced me to this world and now I am loving it! I decided to start this master mostly because I found Maths and computers match pretty well and I love them both. As well the  university gave me so many facilities, that I felt inside this time was the best time to begin. I am grateful for this opportunity and  I want to learn the most. 
 
-## What HPSTR brings to the table:
+This blog is a learning excercise. The first thing that mean is I am not an expert, I will be, but right now it is possible that you find a lot of mistakes on grammar, coding and theory, therefore  all the feedback you guys want to provide me would be more than welcome. The second thing that mean is  I will be writing for learners and beginners, I want other people to have access to resources that might help them in their particular situations. The last thing it means, is that I would encourage everyone who ever use this blog to reply and cooperate with the posts and let me notice is being used. 
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+Let me describe a little bit clearer how I will set up this blog. 
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
 
-[^1]: Example: *domain.com/category-name/post-title*
+## Organization of the blog:
+
+* Subjects: In this section, I will be uploading selected topics, problems and other stuff related to the subjects I will be taking at RUM.
+* Station Q: My favorite research topic is on Quantum Computing. Therefore I will be uploading  articles and personal writings about it. Mostly about Algorithms, introductory readings and stuff related with my thesis.     
+* Projects: This entrance is specially addressed to present some projects on web development that I have been working with my friend @d555. Who is doing his master at EAFIT university. 
+
+[^1]: Compite: https://github.com/piperod
