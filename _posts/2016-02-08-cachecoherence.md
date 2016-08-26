@@ -11,9 +11,9 @@ image:
     <img src="/images/sharedmemory.png" alt="" width="300">
     <figcaption>Shared Memory Processors</figcaption>
 </figure>
-Parallel computing has been the key tool for high performance computing in the last decade. The idea is to brake  a long and hard problem into a several smaller ones that can be executed in different cores, solving the problem in a coperative way[hager][1]. However, being able to guarantee that the portion of cached memory is a accurate copy of main memory is known as  cache coherence[Eijkhout][2]. 
+Parallel computing has been the key tool for high performance computing in the last decade. The idea is to brake  a long and hard problem into a several smaller ones that can be executed in different cores, solving the problem in a coperative way[hager][1]. However, being able to guarantee that the portion of cached memory is an accurate copy of main memory is known as  cache coherence[Eijkhout][2]. 
 
-Those computers that use the same physical space adress for their processors are known as the "shared-memory computers". In this case there are two very different ways to access memory, with the following caracteristics:
+Those computers that use the same physical space address for their processors are known as "shared-memory computers". In this case there are two very different ways to access memory, with the following caracteristics:
 
 * Uniform Memory Access (UMA):
     In this case latency and bandwith is the same for all processors and all memory locations.

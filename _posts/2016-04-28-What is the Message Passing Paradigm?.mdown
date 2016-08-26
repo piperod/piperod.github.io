@@ -1,0 +1,15 @@
+---
+layout: post
+title: Drills On MPI.
+description: "Some Features of modern processors."
+tags: [C6786, Modern Processors, pipelines]
+categories: [HPSC C6786]
+image:
+  background: triangular.png
+---
+
+What is MPI?
+
+MPI is the acronima for Message Passing Interface
+
+What is the Message Passing Paradigm? 
