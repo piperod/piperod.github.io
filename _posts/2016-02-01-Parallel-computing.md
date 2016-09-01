@@ -2,7 +2,7 @@
 layout: post
 title: Basic Performance Models for Matrix-Matrix Product. 
 tags: [Parallel Computing ]
-categories: [C5055]
+categories: [PC C5055]
 image:
   background: triangular.png
 ---
