@@ -5,7 +5,7 @@ reading_time:     true
 words_per_minute: 200
 logo:             images/logo.png
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
-# When testing locally leave blank or use http://localhost:4000
+# When testing locally leave blank or use 
 url: https://piperod.github.io
 
 menu:
@@ -18,20 +18,15 @@ menu:
   - title: 'Categories'
     url: '/categories'
     type: 'categories'
-  - title: 'Station Q'
-    url: '/Station_Q/station_q.html'
   - title: 'Fun Stuff'
     url: '#'
     submenu:
-      - title: 'highlighter'
-        url: '/code-highlighting-post/'
-      - title: 'intro'
-        url: '/readability-post/'
+      
 
 # Owner/author information
 owner:
   name:           Ivan Felipe Rodriguez
-  site:           http://piperod.github.io
+  site:           https://piperod.github.io
   avatar:         images/avatar.jpg
   bio:            "Colombian.LDS member(mormon).Mathematician. Teacher. Student at RUM: Master in Scientific Computing. Guitar. Geek xd.  "
   email:          ifelipe.rodriguez@hotmail.com
