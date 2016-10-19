@@ -34,7 +34,7 @@ There are some base cases that we need to look at first, in order to build our s
 		dp[(n,0,0)]= 1 
 ``` 
 
-Because there is only one word, which is produced by $0^*$
+Because there is only one word, which is produced by $$0^*$$
 
 ### Words of length 1 
 
