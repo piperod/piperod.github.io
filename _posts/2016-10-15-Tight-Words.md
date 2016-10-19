@@ -10,7 +10,7 @@ image:
 
 # Tight Words Problem
 
-Given an alphabet {0,1,...,k} with $0 \leq k \leq$. We define  a word of length $1 \leq k \leq n$, over this alphabet, to be tight if  the difference between any par of adjacent digits in the word is no major than 1. 
+Given an alphabet {0,1,...,k} with $$0 \leq k \leq$$. We define  a word of length $$1 \leq k \leq n$$, over this alphabet, to be tight if  the difference between any par of adjacent digits in the word is no major than 1. 
 
 For this problem we will use dynammic programming in the way that we build a table from the bottom up, where we can look the previous answers. 
 
@@ -77,6 +77,7 @@ Now we have to consider the endings if the end is withing the characters of the 
 At the end, we just need to consider the last extreme case. When we pick up an alphabet that goes all the way to the last character. In this case, similar to the first one, we can either add the same letter or add the previous one, because there are no more letters upfront. 
 
 ```python 
+
 	if k == 9:
         dp[(n, k, 9)] = dp[(n - 1, k, 9)] + dp[(n - 1, k, 8)]
 
