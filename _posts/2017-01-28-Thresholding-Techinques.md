@@ -20,13 +20,13 @@ This technique is one of the simplest in image segmentation, it aims to change e
 * Spacial distribution
 * Local changes of a region. 
 
-Some known algorithms and its results are: 
+Some known algorithms and their results are: 
 
 ### Algorithms:
 
 #### Otsu's: 
 
-After calculating a histogram, an analysis of the distribution of the gray values of an image are taken into an account. The minimun between the two peaks in a bimodal histofram is chosen as threshold. Some of its drawbacks is that generally a single threshold can't give a good segmentation. 
+After calculating a histogram, an analysis of the distribution of the gray values of an image are taken into an account. The minimun between the two peaks in a bimodal histogram is chosen as threshold. Some of its drawbacks is that generally a single threshold can't give a good segmentation. 
 
 
 ```python
@@ -104,6 +104,7 @@ def plot(thresh):
 
 ```
 
+Here is an example of how to put an interactive bar, for changing the threshold in a jupyter notebook. 
 
 ```python
 from IPython.html.widgets import interact,IntSlider
