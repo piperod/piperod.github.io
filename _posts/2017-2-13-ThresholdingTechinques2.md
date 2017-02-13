@@ -3,6 +3,7 @@ layout: post
 title: Image Segmentation Techniques 2  Watershed and Region Growing.
 tags: [Image Segmentation]
 categories: [Computer Vision]
+comments:true
 image:
   background: triangular.png
 ---
@@ -11,7 +12,7 @@ image:
 
 ## Watershed Transformation: 
 
-The watershed is a classical algorithm used for **segmentation**, thatis, for separating different objects in an image.
+The watershed is a classical algorithm used for **segmentation**, that is, for separating different objects in an image.
 
 Starting from user-defined markers, the watershed algorithm treats pixels values as a local topography (elevation). The algorithm floods basins from the markers, until basins attributed to different markers meet on watershed lines.  In many cases, markers are chosen as local
 minima of the image, from which basins are flooded.
