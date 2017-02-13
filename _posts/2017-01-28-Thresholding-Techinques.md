@@ -3,7 +3,6 @@ layout: post
 title: Image Segmentation Techniques Thresholding 
 tags: [Image Segmentation]
 categories: [Computer Vision]
-comments: true
 image:
   background: triangular.png
 ---
